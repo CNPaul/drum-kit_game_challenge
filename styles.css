@@ -5,6 +5,15 @@ body {
 
 h1 {
   font-size: 5rem;
+  margin: 0 auto;
+  color: #dbedf3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #da0463;
+}
+
+h2 {
+  font-size: 12rem;
+  margin: 0 auto;
   color: #dbedf3;
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #da0463;
